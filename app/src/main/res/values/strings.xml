@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Camera Correction</string>
+    <string name="capture">撮影</string>
+    <string name="correction_on_off">補正ON/OFF</string>
+    <string name="camera_permission_denied">カメラパーミッションが拒否されました</string>
+</resources>
